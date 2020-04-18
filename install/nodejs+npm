@@ -1,0 +1,6 @@
+sudo apt install nodejs
+sudo apt install npm
+
+#check if installed correctly
+nodejs -v
+npm -v
