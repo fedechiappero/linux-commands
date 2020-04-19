@@ -1,0 +1,8 @@
+#GitLens — Git supercharged
+ext install eamodio.gitlens
+
+#TSLint 
+ext install ms-vscode.vscode-typescript-tslint-plugin
+
+#Mithril Emmet
+ext install FallenMax.mithril-emmet
