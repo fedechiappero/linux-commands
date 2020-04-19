@@ -1,0 +1,2 @@
+#may require root permissions
+npm install -g @ionic/cli
